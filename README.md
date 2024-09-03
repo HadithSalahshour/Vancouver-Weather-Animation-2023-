@@ -8,7 +8,7 @@ Visualizes Vancouver's 2023 weather data with animated pie charts, showing month
 ## Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/Vancouver-Weather-Animation-2023.git
+    git clone https://github.com/HadithSalahshour/Vancouver-Weather-Animation-2023.git
     ```
 2. Navigate into the project directory:
     ```bash
